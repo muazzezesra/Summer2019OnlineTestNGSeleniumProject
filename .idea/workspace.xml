@@ -2,47 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5dfec46a-59fe-41de-a3e8-9932610b68f5" name="Default Changelist" comment="testng.xml file">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/smoke_test.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/BasePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/CalendarEventsPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/CreateCalendarEventPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/CreateCarPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/VehiclesPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/TestBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day13/WebTablesPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day14/ConfigReaderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day14/LoginTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day20_ddt_with_excel/LoginTestsWithExcel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/vyTrack/CalendarEventsTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/vyTrack/CreateCalendarEventTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/vyTrack/CreateCarTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/vyTrack/LoginTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/vyTrack/NewCalendarEventsTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/vyTrack/SmokeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utils/ConfigurationReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utils/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utils/ExcelUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utils/explicitwait.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Screenshots/smokeTest-2019-12-06-14-46.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Screenshots/test1-2019-12-05-13-32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Screenshots/test1-2019-12-06-17-07.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Screenshots/test1-2019-12-06-17-12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Screenshots/test1-2019-12-06-17-14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Screenshots/test1-2019-12-06-17-17.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Screenshots/test1-2019-12-09-15-51.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/regression.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/report.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/smoke_test.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vytrack_testusers.xlsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/utils/BrowserUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utils/BrowserUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day12/JSExecutorPractice.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/day12/JSExecutorPractice.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/utils/BrowserUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/utils/BrowserUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/utils/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utils/Driver.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
